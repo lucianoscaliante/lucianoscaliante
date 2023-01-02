@@ -1,5 +1,5 @@
 ### Olá Devs, Eu sou Luciano Scaliante Junior!!
-## Full-stack web developer JR / Python developer JR / C# developer JR
+## Full-stack web developer JR / Python developer JR 
 
 <div>
   <a href="https://github.com/lucianoscaliante">
